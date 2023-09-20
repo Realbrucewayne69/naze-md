@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
-global.sessionName = 'nazedev'  //jangan diganti bro nanti error
+global.owner = ['96103941049']
+global.ownernomer = "96103941049"
+global.premium = ['96103941049']
+global.packname = 'Sticker By batman'
+global.author = 'ali'
+global.sessionName = 'batman'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.jumlah = '1000000000'
